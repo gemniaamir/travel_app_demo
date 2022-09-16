@@ -1,6 +1,13 @@
 # travel_app
 
-A new Flutter project.
+
+https://user-images.githubusercontent.com/17922728/190655403-fda5bcfc-e2dc-4b50-ad0f-32ed4f2748f5.mp4
+
+
+
+!! OPEN ABOVE LINK TO VIEW DEMO VIDEO !!
+Demo application with a Landing Page and a home screen in Flutter. 
+
 
 ## Getting Started
 
